@@ -1,14 +1,23 @@
+from typing import Optional
+
 from fastapi import APIRouter, HTTPException, Query
+from fastapi.responses import Response
+
+from config import settings
 from models import BuildingResponse, ErrorResponse, BuildingData, ServiceInfo
 from services import get_building_by_id
+from services.export_service import get_export_data
 from utils import get_teryt_from_id, find_service_by_teryt
-from config import settings
 
 router = APIRouter()
 
 
-@router.get("/building_by_id/", response_model=BuildingResponse, responses={404: {"model": ErrorResponse}})
-async def search_building_by_id(building_id: str = Query(..., description="Building ID to search for")):
+@router.get("/building_by_id/", response_model=None, responses={404: {"model": ErrorResponse}})
+async def search_building_by_id(
+        building_id: str = Query(..., description="Building ID to search for"),
+        format: Optional[str] = Query(None, description="Export format: geojson, gml, kml, shp",
+                                      regex="^(geojson|gml|kml|shp)$")
+):
     teryt = get_teryt_from_id(building_id)
     service = find_service_by_teryt(settings.WFS_DATA_FILE, teryt)
 
@@ -16,19 +25,33 @@ async def search_building_by_id(building_id: str = Query(..., description="Build
         raise HTTPException(status_code=404, detail=f"No WFS service found for TERYT code: {teryt}")
 
     building = get_building_by_id(service['url'], building_id)
-    if building:
-        return BuildingResponse(
-            status="success",
-            building_id=building_id,
-            teryt=teryt,
-            service=ServiceInfo(
-                organization=service['organization'],
-                url=service['url']
-            ),
-            data=BuildingData(
-                attributes=building['attributes'],
-                geometry=building['geometry']
-            )
-        )
-    else:
+    if not building:
         raise HTTPException(status_code=404, detail=f"Building with ID {building_id} not found in any available layer")
+
+    if format:
+        try:
+            content, media_type, filename = get_export_data(building, building_id, "building", format)
+
+            return Response(
+                content=content,
+                media_type=media_type,
+                headers={"Content-Disposition": f"attachment; filename={filename}"}
+            )
+        except ValueError as e:
+            raise HTTPException(status_code=400, detail=str(e))
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Export failed: {str(e)}")
+
+    return BuildingResponse(
+        status="success",
+        building_id=building_id,
+        teryt=teryt,
+        service=ServiceInfo(
+            organization=service['organization'],
+            url=service['url']
+        ),
+        data=BuildingData(
+            attributes=building['attributes'],
+            geometry=building['geometry']
+        )
+    )

@@ -7,8 +7,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 app = FastAPI(
     title="PlotAPI",
-    description="API for searching Polish land parcels and buildings",
-    version="1.0.0"
+    description="API for searching Polish land parcels and buildings with export functionality",
+    version="1.1.0"
 )
 
 app.include_router(parcels.router, prefix="/api", tags=["Parcels"])
@@ -19,11 +19,16 @@ app.include_router(buildings.router, prefix="/api", tags=["Buildings"])
 async def root():
     return {
         "message": "PlotAPI - Polish Land Parcel and Building Search API",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "endpoints": {
             "parcels": "/api/parcel_by_id/",
             "buildings": "/api/building_by_id/"
-        }
+        },
+        "usage": {
+            "search": "Add parcel_id or building_id parameter",
+            "download": "Add format parameter (geojson, gml, kml, shp) to download file"
+        },
+        "supported_formats": ["geojson", "gml", "kml", "shp"]
     }
 
 
