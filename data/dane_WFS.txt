@@ -1,0 +1,385 @@
+Identyfikator zbioru danych;Organ zgłaszający;TERYT;Usługa pobierania;01.01.1900
+PL.PZGiK.1;Starosta Powiatu Krakowskiego;1206;https://wms.powiat.krakow.pl:1518/iip/ows;10-02-2025
+PL.PZGiK.2;Prezydent Miasta Piekary Śląskie;2471;https://wms.sip.piekary.pl/piekary-egib;10-02-2025
+PL.PZGiK.3;Prezydent Miasta Białegostoku;2061;https://webewid-wms.um.bialystok.pl/iip/ows;10-02-2025
+PL.PZGiK.4;Starosta Milicki;0213;https://milicki-wms.webewid.pl/iip/ows;10-02-2025
+PL.PZGiK.5;Starosta Bielski;2402;https://bielski-ows.webewid.pl/iip/ows;10-02-2025
+PL.PZGiK.6;Starosta Powiatu Trzebnickiego;0220;https://trzebnicki-wms.webewid.pl/iip/ows;10-02-2025
+PL.PZGiK.7;Starosta Powiatu Mieleckiego;1811;https://mielec.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.8;Starosta Powiatu Gnieźnieńskiego;3003;https://wms.geodezjagniezno.pl/gniezno-egib;10-02-2025
+PL.PZGiK.9;Starosta Wrzesiński;3030;https://wms.wrzesnia.powiat.pl/wrzesnia-egib;10-02-2025
+PL.PZGiK.10;Prezydent Miasta Stołecznego Warszawy;1465;https://wms2.um.warszawa.pl/geoserver/wfs/wfs;10-02-2025
+PL.PZGiK.11;Starosta Zielonogórski;0809;https://giportal.powiat-zielonogorski.pl/zielonagora-egib;10-02-2025
+PL.PZGiK.12;Starosta Powiatu Żuromińskiego;1437;https://zuromin-powiat.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.13;Starosta Namysłowski;1606;https://iegib.namyslow.pl/cgi-bin/namyslow-egib;10-02-2025
+PL.PZGiK.14;Starosta Cieszyński;2403;https://cieszyn.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.15;Burmistrz Gminy Kęty;121304;https://kety.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.16;Starosta Powiatu Białostockiego;2002;https://bialystok.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.17;Starosta Powiatu Buskiego;2601;https://geodezja.powiat.busko.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.18;Prezydent Miasta Włocławek;0464;https://geoportal.wloclawek.eu/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.19;Starosta Świebodziński;0808;https://giportal2.powiat.swiebodzin.pl/swiebodzin-egib;10-02-2025
+PL.PZGiK.20;Starosta Polkowicki;0216;https://polkowicki-wms.webewid.pl/iip/ows;10-02-2025
+PL.PZGiK.21;Prezydent Miasta Ruda Śląska;2472;https://rudaslaska.geoportal2.pl/map/geoportal/wfse.php;10-02-2025
+PL.PZGiK.22;Starosta Powiatu Pilskiego;3019;https://ikerg.powiat.pila.pl/cgi-bin/pila-egib;10-02-2025
+PL.PZGiK.23;Prezydent Miasta Opola;1661;https://wms.um.opole.pl/opole-egib;10-02-2025
+PL.PZGiK.24;Starosta Powiatu Lubaczowskiego;1809;https://lubaczow.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.25;Starosta Powiatu Sanockiego;1817;https://sanocki.webewid.pl:8443/iip/ows;10-02-2025
+PL.PZGiK.26;Starosta Powiatu Przeworskiego;1814;https://sip.powiatprzeworsk.pl:4443/iip/ows;10-02-2025
+PL.PZGiK.27;Starosta Powiatu Brzozowskiego;1802;https://brzozowski.webewid.pl:4443/iip/ows;10-02-2025
+PL.PZGiK.28;Starosta Powiatu Brzeskiego;1601;https://imapa.brzeg-powiat.pl/brzeg-egib;10-02-2025
+PL.PZGiK.29;Starosta Powiatu Krapkowickiego;1605;https://ikerg.powiatkrapkowicki.pl/krapkowice-egib;01.01.1900
+PL.PZGiK.30;Starosta Powiatu Czarnkowsko-Trzcianeckiego;3002;https://wms.czarnkowsko-trzcianecki.pl/czarnkowskotrzcianecki-egib;10-02-2025
+PL.PZGiK.31;Starosta Powiatu Żarskiego;0811;https://zary.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.32;Prezydent Miasta Krosna;1861;https://krosno-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.33;Starosta Opolski;1609;https://geodezja.powiatopolski.pl/ggp;01.01.1900
+PL.PZGiK.34;Starosta Kluczborski;1604;http://185.108.68.134/kluczbork-egib;01.01.1900
+PL.PZGiK.35;Starosta Przemyski;1813;https://powiat-przemysl.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.36;Prezydent Grudziądza;0462;https://geoportal.grudziadz.pl/ggp;01.01.1900
+PL.PZGiK.37;Starosta Powiatu Mikołowskiego;2408;https://mapa.mikolowski.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.38;Prezydent Miasta Żory;2479;https://geoportal.zory.pl/usluga/iip/wfs/geodezja;01.01.1900
+PL.PZGiK.39;Prezydent Miasta Katowice;2469;https://emapa.katowice.eu/arcgis/services/wms_egib_gugik/MapServer/WFSServer;01.01.1900
+PL.PZGiK.41;Starosta Ropczycko-Sędziszowski;1815;https://spropczyce.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.42;Starosta Strzyżowski;1819;https://strzyzowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.43;Starosta Powiatu Oleskiego;1608;https://ikerg.powiatoleski.pl/olesno-egib;01.01.1900
+PL.PZGiK.44;Starosta Powiatu Stalowowolskiego;1818;https://stalowawola.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.45;Prezydent Miasta Kielce;2661;https://wms.kielce.eu/kielce-egib;01.01.1900
+PL.PZGiK.46;Starosta Bieszczadzki;1801;https://bieszczadzki-wms.webewid.pl:4434/iip/ows;01.01.1900
+PL.PZGiK.47;Starosta Nakielski;0410;https://nakielski.webewid.pl:62627/iip/ows;01.01.1900
+PL.PZGiK.48;Starosta Powiatu Niżańskiego;1812;https://powiat-nisko.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.49;Starosta Powiatu Bydgoskiego;0403;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0403;01.01.1900
+PL.PZGiK.50;Prezydent Miasta Bydgoszczy;0461;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0461;01.01.1900
+PL.PZGiK.51;Starosta Powiatu Świeckiego;0414;https://wms.csw.pl/iip/ows;01.01.1900
+PL.PZGiK.52;Starosta Powiatu Starogardzkiego;2213;https://wms.powiatstarogard.pl/iip/ows;01.01.1900
+PL.PZGiK.53;Starosta Głubczycki;1602;https://ikerg.powiatglubczycki.pl/cgi-bin/glubczyce-egib;01.01.1900
+PL.PZGiK.54;Starosta Żniński;0419;https://zninski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.55;Starosta Golubsko-Dobrzyński;0405;https://golubsko-dobrzynski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.56;Starosta Powiatu Tarnobrzeskiego;1820;https://tarnobrzeski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.57;Prezydent Miasta Jelenia Góra;0261;https://geoportal.jeleniagora.pl/ggp;01.01.1900
+PL.PZGiK.58;Starosta Tucholski;0416;https://tucholski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.59;Starosta Powiatu Jarocińskiego;3006;https://ikerg.powiat-jarocinski.pl/jarocin-egib;01.01.1900
+PL.PZGiK.60;Starosta Radziejowski;0411;https://radziejow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.61;Starosta Powiatu Średzkiego;3025;https://wms.powiatsredzki.pl/srodawlkp-egib;01.01.1900
+PL.PZGiK.62;Prezydent Miasta Rzeszowa;1863;https://osrodek.erzeszow.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.63;Starosta Powiatu Lipnowskiego;0408;https://lipno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.64;Starosta Powiatu Nowomiejskiego;2812;https://powiat-nowomiejski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.65;Prezydent Miasta Torunia;0463;https://mtorun-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.66;Starosta Powiatu Jarosławskiego;1804;https://jaroslawski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.67;Starosta Ostrowiecki;2607;https://ostrowiec.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.68;Starosta Powiatu Łańcuckiego;1810;https://lancut.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.69;Starosta Powiatu Starachowickiego;2611;https://starachowice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.70;Starosta Powiatu Działdowskiego;2803;https://powiatdzialdowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.71;Starosta Powiatu Rypińskiego;0412;http://rypin.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.72;Starosta Powiatu Chełmińskiego;0404;https://chelminski.webewid.pl:44316/iip/ows;01.01.1900
+PL.PZGiK.73;Starosta Wąbrzeski;0417;https://wabrzezno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.74;Starosta Powiatu Inowrocławskiego;0407;https://inowroclawski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.75;Starosta Powiatu Nyskiego;1607;https://wms-egib.powiat.nysa.pl/nysa-egib;01.01.1900
+PL.PZGiK.76;Starosta Powiatu Pleszewskiego;3020;https://wms.geo.net.pl/pleszew-egib;01.01.1900
+PL.PZGiK.77;Starosta Leżajski;1808;https://lezajsk.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.78;Starosta Karkonoski;0206;https://wms.podgik.jgora.pl/jeleniagora-egib;01.01.1900
+PL.PZGiK.79;Prezydent Miasta Chorzów;2463;https://e-odgik.chorzow.eu/arcgis/services/wfs/chorzow_egib_publ/MapServer/WFSServer;01.01.1900
+PL.PZGiK.80;Starosta Prudnicki;1610;https://ikerg2.powiatprudnicki.pl/prudnik-egib;01.01.1900
+PL.PZGiK.81;Starosta Miński;1412;https://wms.epodgik.pl/cgi-bin/minsk;01.01.1900
+PL.PZGiK.82;Starosta Poznański;3021;https://ikerg.podgik.poznan.pl/wms-poznanski;01.01.1900
+PL.PZGiK.83;Starosta Szczecinecki;3215;https://szczecinecki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.84;Starosta Mogileński;0409;https://mogilenski.webewid.pl:4444/iip/ows;01.01.1900
+PL.PZGiK.85;Starosta Powiatu Nidzickiego;2811;https://powiatnidzicki.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.86;Prezydent Miasta Zielona Góra;0862;https://gis.um.zielona-gora.pl/arcgis/services/zielona_gora_egib/serwer;01.01.1900
+PL.PZGiK.87;Starosta Jasielski;1805;https://jasielski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.88;Starosta Powiatu Koneckiego;2605;https://konskie.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.89;Prezydent Miasta Bielska-Białej;2461;https://ikerg.bielsko-biala.pl/bielsko-egib;01.01.1900
+PL.PZGiK.90;Starosta Kolbuszowski;1806;https://kolbuszowa.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.91;Starosta Powiatu Rzeszowskiego;1816;https://powiatrzeszowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.92;Starosta Lubański;0210;https://iegib.powiatluban.pl/luban-egib;01.01.1900
+PL.PZGiK.93;Starosta Powiatu Strzeleckiego;1611;https://mapy.powiatstrzelecki.pl/ggp;01.01.1900
+PL.PZGiK.94;Starosta Dąbrowski;1204;https://dabrowski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.95;Starosta Powiatu Grudziądzkiego;0406;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0406;01.01.1900
+PL.PZGiK.96;Starosta Powiatu Brodnickiego;0402;https://mapa.brodnica.com.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.97;Prezydent Miasta Kalisza;3061;https://ikerg.um.kalisz.pl/kalisz-egib;01.01.1900
+PL.PZGiK.98;Starosta Pruszkowski;1421;https://wms.epodgik.pl/cgi-bin/pruszkow;01.01.1900
+PL.PZGiK.99;Prezydent Miasta Lublin;0663;https://gis.lublin.eu/opendata/wfs;01.01.1900
+PL.PZGiK.100;Starosta Krośnieński;1807;https://krosnienski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.101;Starosta Powiatu Kartuskiego;2205;https://kartuski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.102;Starosta Powiatu Kętrzyńskiego;2808;https://powiatketrzynski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.103;Starosta Powiatu Hrubieszowskiego;0604;https://hrubieszow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.104;Starosta Powiatu Brzeskiego;1202;https://brzesko.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.105;Prezydent Miasta Biała Podlaska;0661;https://bialapodlaska.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.106;Starosta Powiatu Raciborskiego;2411;https://raciborz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.107;Prezydent Miasta Słupska;2263;https://wms.slupsk.eu/iip/ows;01.01.1900
+PL.PZGiK.108;Prezydent Miasta Tychy;2477;https://geowms.umtychy.pl/iip/ows;01.01.1900
+PL.PZGiK.109;Starosta Powiatu Wrocławskiego;0223;https://wms.wrosip.pl/iip/ows;01.01.1900
+PL.PZGiK.110;Starosta Świdnicki;0219;https://swidnicki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.111;Prezydent Miasta Przemyśla;1862;https://przemysl.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.112;Prezydent Wrocławia;0264;https://iwms.zgkikm.wroc.pl/wroclaw-egib;01.01.1900
+PL.PZGiK.113;Starosta Olkuski;1212;https://olkuski.webewid.pl:4434/iip/ows;01.01.1900
+PL.PZGiK.114;Prezydent Miasta Poznania;3064;https://portal.geopoz.poznan.pl/wmsegib;01.01.1900
+PL.PZGiK.115;Prezydent Miasta Legnicy;0262;https://wms.legnica.eu/iip/ows;01.01.1900
+PL.PZGiK.116;Starosta Wielicki;1219;https://wielicki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.117;Starosta Łódzki Wschodni;1006;https://lodzkiwschodni.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.118;Starosta Oławski;0215;https://ewid.starostwo.olawa.pl:4444/iip/ows;01.01.1900
+PL.PZGiK.119;Starosta Płocki;1419;https://powiat-plock.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.120;Starosta Powiatu Skierniewickiego;1015;https://powiat-skierniewice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.121;Starosta Powiatu Olsztyńskiego;2814;https://powiatolsztynski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.122;Starosta Powiatu Bełchatowskiego;1001;http://belchatow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.123;Starosta Wadowicki;1218;https://wadowicki.webewid.pl:20443/iip/ows;01.01.1900
+PL.PZGiK.124;Starosta Ostródzki;2815;https://ostroda.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.125;Starosta Powiatu Giżyckiego;2806;https://wms.epodgik.pl/cgi-bin/gizycko;01.01.1900
+PL.PZGiK.126;Starosta Włocławski;0418;https://wloclawek.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.127;Starosta Powiatu Puławskiego;0614;https://pulawy.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.128;Starosta Powiatu Szczycieńskiego;2817;http://szczytno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.129;Starosta Sławieński;3213;https://slawienski.webewid.pl:4443/iip/ows;01.01.1900
+PL.PZGiK.130;Starosta Chodzieski;3001;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3001;01.01.1900
+PL.PZGiK.131;Starosta Powiatu Nowosolskiego;0804;https://wms.powiat-nowosolski.pl/nowasol-egib;01.01.1900
+PL.PZGiK.132;Starosta Gołdapski;2818;https://powiatgoldap.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.133;Starosta Chrzanowski;1203;https://chrzanowski.webewid.pl:22443/iip/ows;01.01.1900
+PL.PZGiK.134;Starosta Powiatu Mrągowskiego;2810;https://wms.epodgik.pl/cgi-bin/mragowo;01.01.1900
+PL.PZGiK.135;Starosta Powiatu Zambrowskiego;2014;https://powiatzambrowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.136;Starosta Powiatu Iławskiego;2807;https://ilawa.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.137;Starosta Ełcki;2805;https://powiatelk.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.138;Prezydent Miasta Elbląg;2861;https://wms.geodezja.elblag.eu/elblag-wms;01.01.1900
+PL.PZGiK.139;Starosta Węgorzewski;2819;https://wms.epodgik.pl/cgi-bin/wegorzewo;01.01.1900
+PL.PZGiK.140;Starosta Zgorzelecki;0225;https://iegib.powiat.zgorzelec.pl/zgorzelec-egib;01.01.1900
+PL.PZGiK.141;Starosta Lubartowski;0608;https://powiatlubartowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.142;Starosta Opatowski;2606;http://opatow.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.143;Starosta Braniewski;2802;https://powiat-braniewo.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.144;Starosta Bieruńsko-Lędziński;2414;https://sbl.webewid.pl:8443/iip/ows;01.01.1900
+PL.PZGiK.145;Starosta Powiatu Łobeskiego;3218;https://wms.powiatlobeski.pl/lobez-egib;01.01.1900
+PL.PZGiK.146;Starosta Powiatu Goleniowskiego;3204;https://goleniowski.webewid.pl:6443/iip/ows;01.01.1900
+PL.PZGiK.147;Starosta Powiatu Sępoleńskiego;0413;https://sepolenski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.148;Starosta Powiatu Bartoszyckiego;2801;https://powiatbartoszyce.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.149;Prezydent Miasta Świętochłowice;2476;https://swietochlowice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.150;Starosta Powiatu Łęczyńskiego;0610;https://leczna.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.151;Starosta Olecki;2813;https://olecko.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.152;Prezydent Bytomia;2462;https://iwms.um.bytom.pl/bytom-egib;01.01.1900
+PL.PZGiK.153;Starosta Wałecki;3217;https://walecki.webewid.pl:4434/iip/ows;01.01.1900
+PL.PZGiK.154;Prezydent Miasta Gdyni;2262;https://pc73.miasto.gdynia.pl/iip/ows;01.01.1900
+PL.PZGiK.155;Starosta Powiatu Słupskiego;2212;https://wms.powiat.slupsk.pl/iip/ows;01.01.1900
+PL.PZGiK.156;Prezydent Miasta Dąbrowa Górnicza;2465;https://geoportal-wms.dg.pl/iip/ows;01.01.1900
+PL.PZGiK.157;Prezydent Miasta Chełm;0662;https://wms.epodgik.pl/cgi-bin/mchelm;01.01.1900
+PL.PZGiK.158;Starosta Drawski;3203;https://drawski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.159;Starosta Skarżyski;2610;http://skarzysko.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.160;Starosta Łęczycki;1004;https://leczycki.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.161;Starosta Powiatu Lubelskiego;0609;https://powiatlubelski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.162;Starosta Lidzbarski;2809;https://powiatlidzbarski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.163;Starosta Powiatu Opolskiego;0612;https://opolelubelskie.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.164;Starosta Powiatu Aleksandrowskiego;0401;https://mapa.aleksandrow.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.165;Starosta Tatrzański;1217;https://tatrzanski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.166;Starosta Powiatu Kędzierzyńsko-Kozielskiego;1603;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1603;01.01.1900
+PL.PZGiK.167;Starosta Lwówecki;0212;https://ikerg.powiatlwowecki.pl/lwowekslaski-egib;01.01.1900
+PL.PZGiK.168;Starosta Stargardzki;3214;https://ikerg2.powiatstargardzki.eu/stargard-egib;01.01.1900
+PL.PZGiK.169;Starosta Białogardzki;3201;https://bialogardzki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.170;Starosta Sandomierski;2609;https://sandomierz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.171;Starosta Koszaliński;3209;https://koszalinski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.172;Starosta Kolski;3009;https://ikerg.starostwokolskie.pl/powiatkolski-egib;01.01.1900
+PL.PZGiK.173;Prezydent Miasta Świnoujście;3263;https://geo-wms.um.swinoujscie.pl/swinoujscie;01.01.1900
+PL.PZGiK.175;Starosta Kamiennogórski;0207;https://wms.kamienna-gora.pl/kamiennagora-egib;01.01.1900
+PL.PZGiK.176;Starosta Powiatu Legionowskiego;1408;http://powiat-legionowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.177;Starosta Pyrzycki;3212;https://ikerg.pyrzyce.pl/pyrzyce-egib;01.01.1900
+PL.PZGiK.178;Starosta Powiatu Oświęcimskiego;1213;https://oswiecimski.webewid.pl:4422/iip/ows;01.01.1900
+PL.PZGiK.179;Starosta Warszawski Zachodni;1432;https://wms.pwz.pl/iip/ows;01.01.1900
+PL.PZGiK.180;Prezydent Miasta Szczecin;3262;https://wms.e-osrodek.szczecin.pl/szczecin-egib;01.01.1900
+PL.PZGiK.181;Starosta Bolesławiecki;0201;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0201;01.01.1900
+PL.PZGiK.182;Starosta Myszkowski;2409;https://imapa.powiatmyszkowski.pl/myszkow-egib;01.01.1900
+PL.PZGiK.183;Starosta Wołowski;0222;https://wolowski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.184;Starosta Strzelecko-Drezdenecki;0806;https://fsd.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.185;Starosta Żagański;0810;https://zaganski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.186;Prezydent Miasta Jastrzębie-Zdrój;2467;https://jastrzebie.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.187;Starosta Leszczyński;3013;https://leszczynski.webewid.pl:543/iip/ows;01.01.1900
+PL.PZGiK.188;Starosta Gorzowski;0801;https://powiatgorzowski.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.189;Starosta Choszczeński;3202;https://ikerg.geopowiatchoszczno.pl/choszczno-egib;01.01.1900
+PL.PZGiK.190;Prezydent Miasta Radomia;1463;https://ikerg.modgik.radom.pl/radom-egib;01.01.1900
+PL.PZGiK.191;Starosta Ostrzeszowski;3018;https://wms.spostrzeszow.pl/ostrzeszow-egib;01.01.1900
+PL.PZGiK.192;Starosta Ostrowski;3017;https://ikerg.powiat-ostrowski.pl/ostrow-egib;01.01.1900
+PL.PZGiK.193;Starosta Kołobrzeski;3208;https://kolobrzeski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.194;Starosta Łomżyński;2007, 2062;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2007https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2062;01.01.1900
+PL.PZGiK.195;Starosta Powiatu Krasnostawskiego;0606;https://powiatkrasnostawski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.196;Starosta Międzychodzki;3014;https://wms.epodgik.pl/cgi-bin/miedzychod;01.01.1900
+PL.PZGiK.197;Prezydent Miasta Łodzi;1061;https://mapa.lodz.pl/OGC/EGiB/;01.01.1900
+PL.PZGiK.198;Starosta Złotoryjski;0226;https://wms.powiat-zlotoryja.pl/zlotoryja-egib;01.01.1900
+PL.PZGiK.199;Starosta Powiatu Gostynińskiego;1404;https://gostynin.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.206;Starosta Rawicki;3022;https://ikerg.powiatrawicki.pl/rawicz-egib;01.01.1900
+PL.PZGiK.207;Starosta Tarnogórski;2413;https://geodane.tarnogorski.pl/iip/ows;01.01.1900
+PL.PZGiK.208;Prezydent Miasta Konina;3062;https://ikerg.kosit.konin.eu/konin-egib;01.01.1900
+PL.PZGiK.209;Prezydent Miasta Tarnobrzega;1864;https://tarnobrzeg.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.210;Starosta Koniński;3010;https://konin.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.211;Starosta Powiatu Krotoszyńskiego;3012;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3012;01.01.1900
+PL.PZGiK.212;Starosta Zamojski;0620;https://powiatzamojski.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.213;Starosta Kaliski;3007;https://kalisz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.214;Starosta Powiatu Wolsztyńskiego;3029;https://ikerg.powiatwolsztyn.pl/wolsztyn-egib;01.01.1900
+PL.PZGiK.215;Starosta Sierpecki;1427;https://sierpc.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.216;Starosta Sochaczewski;1428;https://sochaczew.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.217;Starosta Tczewski;2214;https://wms.powiat.tczew.pl/iip/ows;01.01.1900
+PL.PZGiK.218;Starosta Słupecki;3023;https://ikerg.powiat-slupca.pl/slupca-egib;01.01.1900
+PL.PZGiK.219;Prezydent Miasta Zabrze;2478;https://wms.miastozabrze.pl/iip/ows;01.01.1900
+PL.PZGiK.220;Prezydent Miasta Gliwice;2466;https://wmswfs-geodezja.gliwice.eu/iip/ows;01.01.1900
+PL.PZGiK.221;Starosta Powiatu Szamotulskiego;3024;https://wms.szamotuly.com.pl/szamotuly-egib;01.01.1900
+PL.PZGiK.222;Starosta Janowski;0605;https://janow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.223;Starosta Powiatu Dębickiego;1803;https://debica.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.224;Starosta Powiatu Kieleckiego;2604;https://geoportal.powiat.kielce.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.226;Starosta Śremski;3026;https://wms.powiat-srem.pl/srem-egib;01.01.1900
+PL.PZGiK.227;Starosta Powiatu Tureckiego;3027;https://iegib.powiat.turek.pl/cgi-bin/turek_egib;01.01.1900
+PL.PZGiK.228;Starosta Grodziski;3005;https://ikerg.pgw.pl/grodziskwlkp-egib;01.01.1900
+PL.PZGiK.229;Starosta Nowotomyski;3015;https://wms.powiatnowotomyski.pl/nowytomysl-egib;01.01.1900
+PL.PZGiK.230;Starosta Legnicki;0209;https://legnicki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.231;Prezydent Miasta Rybnika;2473;https://geodeta.gpue.rybnik.eu/rybnik-egib;01.01.1900
+PL.PZGiK.232;Starosta Staszowski;2612;https://staszow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.233;Starosta Powiatu Żyrardowskiego;1438;https://ikerg.powiat-zyrardowski.pl/zyrardow-egib;01.01.1900
+PL.PZGiK.234;Prezydent Miasta Koszalina;3261;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3261;01.01.1900
+PL.PZGiK.235;Prezydent Olsztyna;2862;https://webewidwms.olsztyn.eu/iip/ows;01.01.1900
+PL.PZGiK.236;Starosta Powiatu Chojnickiego;2202;https://chojnicki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.237;Prezydent Miasta Leszna;3063;https://imapa.leszno.pl/mleszno-egib;01.01.1900
+PL.PZGiK.239;Prezydent Miasta Siemianowice Śląskie;2474;https://siemianowice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.240;Starosta Powiatu Nowodworskiego;1414;http://nowodworski.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.241;Starosta Płoński;1420;https://plonski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.242;Starosta Przasnyski;1422;https://przasnysz.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.243;Starosta Łowicki;1005;https://lowicz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.244;Starosta Średzki;0218;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0218;01.01.1900
+PL.PZGiK.245;Starosta Powiatu Wyszkowskiego;1435;https://powiat-wyszkowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.246;Starosta Powiatu Grodziskiego;1405;https://imapa.podgik-grodziskm.pl/grodziski-egib;01.01.1900
+PL.PZGiK.247;Starosta Powiatu Leskiego;1821;https://lesko.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.248;Starosta Głogowski;0203;https://glogow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.249;Prezydent Miasta Skierniewice;1063;https://skierniewice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.250;Starosta Powiatu Opoczyńskiego;1007;https://opoczno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.251;Starosta Dzierżoniowski;0202;https://geoportal.pow.dzierzoniow.pl/ggp;01.01.1900
+PL.PZGiK.252;Starosta Złotowski;3031;https://ikerg.zlotow-powiat.pl/zlotow-egib;01.01.1900
+PL.PZGiK.253;Starosta Powiatu Nowodworskiego;2210;https://nowodworski.webewid.pl:4444/iip/ows;01.01.1900
+PL.PZGiK.254;Starosta Wodzisławski;2415;https://imapa.powiatwodzislawski.pl/wodzislaw-egib;01.01.1900
+PL.PZGiK.255;Starosta Powiatu Sejneńskiego;2009;https://sejny.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.256;Prezydent Miasta Siedlce;1464;https://siedlce.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.257;Starosta Pułtuski;1424;https://powiatpultuski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.258;Starosta Radomski;1425;https://radom.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.259;Starosta Powiatu Kępińskiego;3008;https://ikerg.powiatkepno.pl/kepno-egib;01.01.1900
+PL.PZGiK.260;Starosta Wągrowiecki;3028;https://ikerg.wagrowiec.pl/wagrowiec-egib;01.01.1900
+PL.PZGiK.261;Starosta Piski;2816;https://powiatpiski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.262;Starosta Kłodzki;0208;https://geoportal.powiat.klodzko.pl/ggp;01.01.1900
+PL.PZGiK.263;Starosta Myśliborski;3210;https://wms.powiatmysliborski.com.pl/mysliborz-egib;01.01.1900
+PL.PZGiK.264;Starosta Lubiński;0211;https://lubinski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.265;Starosta Jaworski;0205;https://jawor.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.266;Starosta Ostrowski;1416;https://ostrowmaz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.267;Prezydent Miasta Sopot;2264;https://wms.um.sopot.pl/iip/ows;01.01.1900
+PL.PZGiK.268;Starosta Obornicki;3016;https://ikerg.powiatobornicki.pl/cgi-bin/oborniki-egib;01.01.1900
+PL.PZGiK.269;Starosta Gostyński;3004;https://imapa.powiat.gostyn.pl/gostyn-egib;01.01.1900
+PL.PZGiK.270;Starosta Powiatu Gorlickiego;1205;https://gorlicki.webewid.pl:4443/iip/ows;01.01.1900
+PL.PZGiK.271;Starosta Powiatu Oleśnickiego;0214;https://olesnicki.webewid.pl:4444/iip/ows;01.01.1900
+PL.PZGiK.272;Starosta Wejherowski;2215;https://wms.epodgik.pl/cgi-bin/wejherowo;01.01.1900
+PL.PZGiK.273;Starosta Policki;3211;https://wgkik.policki.pl/police-egib;01.01.1900
+PL.PZGiK.274;Starosta Kraśnicki;0607;https://krasnicki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.275;Starosta Świdwiński;3216;https://swidwinski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.276;Starosta Lipski;1409;https://powiatlipsko.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.277;Starosta Ząbkowicki;0224;https://zabkowicki.webewid.pl:444/iip/ows;01.01.1900
+PL.PZGiK.278;Prezydent Miasta Mysłowice;2470;https://wms.myslowice.pl/myslowice-egib;01.01.1900
+PL.PZGiK.279;Starosta Powiatu Gryfińskiego;3206;https://gryfinski.webewid.pl:4439/iip/ows;01.01.1900
+PL.PZGiK.280;Prezydent Miasta Częstochowy;2464;https://geoportal.czestochowa.pl/wfs2464_egib/Service.svc/get;01.01.1900
+PL.PZGiK.281;Starosta Makowski;1411;https://makow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.282;Starosta Powiatu Jędrzejowskiego;2602;https://jedrzejow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.284;Starosta Kolneński;2006;https://kolnenski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.285;Starosta Wałbrzyski;0221;https://walbrzyski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.286;Starosta Powiatu Wysokomazowieckiego;2013;http://wysokomazowiecki.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.287;Starosta Zwoleński;1436;https://zwolenpowiat.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.288;Starosta Chełmski;0603;https://chelmski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.289;Starosta Limanowski;1207;https://limanowski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.290;Starosta Kłobucki;2406;https://powiatklobucki.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.291;Prezydent Miasta Gdańska;2261;https://ewid-wms.gdansk.gda.pl/iip/ows;01.01.1900
+PL.PZGiK.292;Starosta Powiatu Otwockiego;1417;https://powiat-otwocki.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.293;Starosta Kamieński;3207;https://ikerg.powiatkamienski.pl/kamien;01.01.1900
+PL.PZGiK.294;Prezydent Miasta Gorzowa Wielkopolskiego;0861;https://geoportal.wms.um.gorzow.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.295;Starosta Przysuski;1423;http://przysucha.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.296;Prezydent Miasta Płocka;1462;https://wms-ggk.plock.eu:4443/iip/ows;01.01.1900
+PL.PZGiK.301;Starosta Bielski w Bielsku Podlaskim;2003;https://powiatbielski.geoportal2.pl/map/geoportal/wfs.php;10-02-2025
+PL.PZGiK.302;Starosta Piaseczyński;1418;https://wms.epodgik.pl/cgi-bin/piaseczno;01.01.1900
+PL.PZGiK.307;Prezydent Miasta Krakowa;1261;https://geodezja.eco.um.krakow.pl/krakow-egib;01.01.1900
+PL.PZGiK.329;Starosta Biłgorajski;0602;https://bilgorajski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.331;Prezydent Miasta Zawiercie;241602;https://wms.zawiercie.eu/zawiercie-egib;01.01.1900
+PL.PZGiK.355;Starosta Tomaszowski;1016;https://powiat-tomaszowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.356;Starosta Górowski;0204;https://gora.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.357;Starosta Strzeliński;0217;https://strzelinski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.358;Starosta Lubliniecki;2407;http://83.17.150.14/lubliniec-egib;01.01.1900
+PL.PZGiK.359;Starosta Powiatu Elbląskiego;2804;https://ikerg.powiat.elblag.pl/elblaski-egib;01.01.1900
+PL.PZGiK.360;Starosta Powiatu Siemiatyckiego;2010;https://geoportal.siemiatycze.pl/siemiatycze-egib;01.01.1900
+PL.PZGiK.361;Starosta Pabianicki;1008;https://pabianice.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.362;Prezydent Miasta Suwałk;2063;https://geoportal.um.suwalki.pl/ggp;01.01.1900
+PL.PZGiK.363;Starosta Grajewski;2004;http://starostwograjewo.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.364;Starosta Powiatu Łosickiego;1410;https://losice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.365;Starosta Gryficki;3205;https://ikerg.podgikgryfice.pl/gryfice-egib;01.01.1900
+PL.PZGiK.366;Starosta Sokólski;2011;https://powiatsokolski.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.367;Starosta Moniecki;2008;https://monki.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.368;Prezydent Miasta Zamość;0664;https://zamosc.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.369;Starosta Będziński;2401;https://ikerg.powiat.bedzin.pl/bedzin-egib;01.01.1900
+PL.PZGiK.371;Burmistrz Miasta i Gminy Wolbrom;121207_3;https://wolbrom.webewid.pl:4444/iip/ows;01.01.1900
+PL.PZGiK.372;Starosta Proszowicki;1214;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1214;01.01.1900
+PL.PZGiK.373;Starosta Hajnowski;2005;https://hajnowka.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.374;Starosta Powiatu Garwolińskiego;1403;https://garwolinski.geoportal2.pl:8443/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.375;Starosta Toruński;0415;https://torunski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.376;Starosta Białobrzeski;1401;https://bialobrzegi.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.377;Starosta Łukowski;0611;https://powiatlukowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.378;Starosta Siedlecki;1426;https://powiatsiedlecki.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.379;Starosta Powiatu Myślenickiego;1209;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1209;01.01.1900
+PL.PZGiK.380;Starosta Suwalski;2012;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2012;01.01.1900
+PL.PZGiK.983;Starosta Międzyrzecki;0803;https://powiat-miedzyrzecki.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.985;Starosta Wschowski;0812;http://wschowa.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.986;Starosta Powiatu Człuchowskiego;2203;https://wms.czluchow.org.pl/iip/ows;01.01.1900
+PL.PZGiK.987;Starosta Powiatu Ryckiego;0616;https://ryki.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.988;Starosta Pińczowski;2608;https://pinczow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.990;Starosta Radzyński;0615;https://powiatradzynski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.993;Starosta Szydłowiecki;1430;https://szydlowiecpowiat.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.995;Starosta Powiatu Mławskiego;1413;https://powiatmlawski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.996;Starosta Suski;1215;https://powiatsuski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.997;Starosta Zduńskowolski;1019;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1019;01.01.1900
+PL.PZGiK.998;Starosta Malborski;2209;https://malborski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.999;Starosta Sulęciński;0807;https://sulecin.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1000;Starosta Łaski;1003;https://lask.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1001;Starosta Powiatu Piotrkowskiego;1010;https://piotrkow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1002;Starosta Rawski;1013;https://wms.powiatrawski.pl/iip/ows;01.01.1900
+PL.PZGiK.1003;Starosta Powiatu Bialskiego;0601;https://powiatbialski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1004;Starosta Parczewski;0613;http://parczew.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1005;Starosta Kościerski;2206;https://koscierski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.1006;Starosta Powiatu Lęborskiego;2208;https://leborski.webewid.pl:44443/iip/ows;01.01.1900
+PL.PZGiK.1007;Starosta Ostrołęcki;1415;http://powiatostrolecki.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.1010;Starosta Włodawski;0619;https://wms.epodgik.pl/cgi-bin/wlodawa;01.01.1900
+PL.PZGiK.1011;Starosta Grójecki;1406;https://grojec.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1012;Starosta Nowotarski;1211;https://nowotarski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1013;Starosta Świdnicki;0617;https://powiatswidnik.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1385;Starosta Powiatu Puckiego;2211;https://pdp.puck.pl/iip/ows;01.01.1900
+PL.PZGiK.1386;Prezydent Miasta Piotrków Trybunalski;1062;https://ikerg.piotrkow.pl/piotrkow-egib;01.01.1900
+PL.PZGiK.1387;Starosta Powiatu Kutnowskiego;1002;https://powiatkutno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1388;Starosta Kwidzyński;2207;https://kwidzynski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.1389;Starosta Węgrowski;1433;https://wms.epodgik.pl/cgi-bin/wegrow;01.01.1900
+PL.PZGiK.1391;Starosta Augustowski;2001;https://augustowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1392;Starosta Sztumski;2216;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2216;01.01.1900
+PL.PZGiK.1394;Starosta Powiatu Gdańskiego;2204;https://gdanski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.1407;Prezydent Miasta Ostrołęki;1461;https://ostroleka.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1458;Starosta Sokołowski;1429;https://powiat-sokolowski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1832;Starosta Powiatu Częstochowskiego;2404;https://czestochowa.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.1956;Starosta Powiatu Radomszczańskiego;1012;https://radomszczanski.geoportal2.pl/map/geoportal/wfse.php;01.01.1900
+PL.PZGiK.2006;Prezydent Miasta Wałbrzycha;0265;https://walbrzych-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.2076;Starosta Powiatu Kazimierskiego;2603;https://kazimierzaw.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.2255;Starosta Gliwicki;2405;https://gliwicki.webewid.pl:4443/iip/ows;01.01.1900
+PL.PZGiK.2704;Starosta Powiatu Pszczyńskiego;2410;https://pszczynski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.2934;Starosta Zgierski;1020;https://zgierski-wms.webewid.pl:743/iip/ows;01.01.1900
+PL.PZGiK.3039;Starosta Nowosądecki;1262;https://wms.nowosadecki.pl/iip/ows;01.01.1900
+PL.PZGiK.3040;Starosta Nowosądecki;1210;https://wms.nowosadecki.pl/iip/ows;01.01.1900
+PL.PZGiK.3511;Starosta Powiatu Ciechanowskiego;1402;https://ciechanow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.3532;Burmistrz Miasta Cieszyna;240301_1;https://miastocieszyn.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.3633;Starosta Powiatu Bocheńskiego;1201;https://bochenski-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.3852;Starosta Powiatu Pajęczańskiego;1009;https://pajeczno.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.3881;Starosta Poddębicki;1011;http://poddebice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.3913;Starosta Kozienicki;1407;https://kozienicepowiat.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.3974;Starosta Kościański;3011;https://wms.powiatkoscian.pl/koscian-egib;01.01.1900
+PL.PZGiK.4026;Starosta Wieruszowski;1018;https://wieruszow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.4395;Prezydent Miasta Tarnowa;1263;https://wms.umt.tarnow.pl/iip/ows;01.01.1900
+PL.PZGiK.4438;Starosta Rybnicki;2412;https://rybnik.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.4848;Starosta Tomaszowski;0618;https://tomaszowlubelski.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.5018;Starosta Żywiecki;2417;https://zywiecki-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.5073;Starosta Miechowski;1208;https://miechow.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.5141;Starosta Bytowski;2201;https://bytowski.webewid.pl:4433/iip/ows;01.01.1900
+PL.PZGiK.5673;Prezydent Miasta Sosnowiec;2475;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2475;01.01.1900
+PL.PZGiK.5872;Starosta Powiatu Brzezińskiego;1021;http://brzeziny.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.5939;Starosta Sieradzki;1014;https://sieradz.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.5950;Starosta Powiatu Wołomińskiego;1434;https://wms.epodgik.pl/cgi-bin/wolomin;01.01.1900
+PL.PZGiK.5989;Starosta Tarnowski;1216;https://webewid.powiat.tarnow.pl:20443/iip/ows;01.01.1900
+PL.PZGiK.6165;Prezydent Miasta Jaworzna;2468;https://jaworzno-wms.webewid.pl/iip/ows;01.01.1900
+PL.PZGiK.6196;Starosta Wieluński;1017;https://wielun.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.6841;Burmistrz Czechowic-Dziedzic;240204;https://czechowice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.7110;Starosta Powiatu Włoszczowskiego;2613;https://wloszczowa.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.7162;Starosta Słubicki;0805;https://slubice.geoportal2.pl/map/geoportal/wfs.php;01.01.1900
+PL.PZGiK.7169;Starosta Krośnieński;0802;https://wms.powiatkrosnienski.pl/krosno-egib;01.01.1900
+PL.PZGiK.7181;Starosta Zawierciański;2416;https://ikerg.zawiercie.powiat.pl/powiatzawiercianski-egib;01.01.1900
