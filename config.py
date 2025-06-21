@@ -4,20 +4,30 @@ class Settings:
     MAX_FEATURES = 1000
 
     PARCEL_LAYER_NAMES = [
-        'Dzialki', 'dzialki',
-        'ms:dzialki', 'ewns:dzialki', 'wfs:dzialki',
-        'ms:Dzialki', 'ewns:Dzialki', 'wfs:Dzialki'
+        'ewns:dzialki',
+        'dzialki',
+        'ms:dzialki',
+        'wfs:dzialki'
     ]
 
     BUILDING_LAYER_NAMES = [
-        'Budynki', 'budynki', 'budynki_wms',
-        'ms:budynki', 'ewns:budynki', 'wfs:budynki',
-        'ms:Budynki', 'ewns:Budynki', 'wfs:Budynki',
-        'ms:budynki_wms', 'ewns:budynki_wms', 'wfs:budynki_wms',
-        'blokbudynku', 'ms:blokbudynku', 'ewns:blokbudynku', 'wfs:blokbudynku'
+        'ewns:budynki',
+        'budynki',
+        'budynki_wms',
+        'ms:budynki',
+        'wfs:budynki',
+        'ms:budynki_wms',
+        'blokbudynku',
+        'ms:blokbudynku'
     ]
 
-    WFS_VERSIONS = ['1.0.0', '1.1.0', '2.0.0']
+    PARCEL_ID_FIELD = 'idDzialki'
+    BUILDING_ID_FIELD = 'idBudynku'
+
+    FALLBACK_PARCEL_ID_FIELDS = ['ID_DZIALKI', 'id_dzialki', 'idDzialki', 'IDDZ']
+    FALLBACK_BUILDING_ID_FIELDS = ['ID_BUDYNKU', 'id_budynku', 'idBudynku', 'IDBU']
+
+    WFS_VERSIONS = ['2.0.0', '1.1.0', '1.0.0']
 
 
 settings = Settings()
