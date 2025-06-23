@@ -19,18 +19,18 @@ async def search_building_by_id(
                                       regex="^(geojson|gml|kml|shp)$")
 ):
     teryt = get_teryt_from_id(building_id)
-    service = find_service_by_teryt(settings.WFS_DATA_FILE, teryt)
+    service = await find_service_by_teryt(settings.WFS_DATA_FILE, teryt)
 
     if not service:
         raise HTTPException(status_code=404, detail=f"No WFS service found for TERYT code: {teryt}")
 
-    building = get_building_by_id(service['url'], building_id)
+    building = await get_building_by_id(service['url'], building_id)
     if not building:
         raise HTTPException(status_code=404, detail=f"Building with ID {building_id} not found in any available layer")
 
     if format:
         try:
-            content, media_type, filename = get_export_data(building, building_id, "building", format)
+            content, media_type, filename = await get_export_data(building, building_id, "building", format)
 
             return Response(
                 content=content,
@@ -51,7 +51,7 @@ async def search_building_by_id(
             url=service['url']
         ),
         data=BuildingData(
-            attributes=building['attributes'],
+            attributes={**building['attributes']},
             geometry=building['geometry']
         )
     )

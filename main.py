@@ -7,8 +7,12 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 app = FastAPI(
     title="PlotAPI",
-    description="API for searching Polish land parcels and buildings with export functionality",
-    version="1.1.0"
+    description="API for searching Polish land parcels and buildings with export functionality. Created by ernestilchenko",
+    version="1.1.0",
+    contact={
+        "name": "ernestilchenko",
+        "url": "https://github.com/ernestilchenko"
+    }
 )
 
 app.include_router(parcels.router, prefix="/api", tags=["Parcels"])

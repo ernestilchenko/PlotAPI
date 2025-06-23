@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as ET
 from typing import Optional, Dict, Any, List
-import requests
+
+import httpx
+
 from config import settings
 from .geometry_service import parse_gml_geometry_to_geojson
 
@@ -54,52 +56,54 @@ def _build_result(feature_member: ET.Element, entity_id: str) -> Optional[Dict[s
     return None
 
 
-def _try_request(session: requests.Session, url: str, params: Dict[str, str]) -> Optional[str]:
-    r = session.get(url, params=params, timeout=settings.REQUEST_TIMEOUT)
-    if r.status_code != 200:
-        return None
-    r.encoding = 'utf-8'
-    txt = r.text
-    if 'ServiceException' in txt or 'ExceptionReport' in txt:
-        p = {k: v for k, v in params.items() if k != 'FILTER'}
-        p.update({'COUNT' if params['VERSION'].startswith('2') else 'MAXFEATURES': str(settings.MAX_FEATURES)})
-        r = session.get(url, params=p, timeout=settings.REQUEST_TIMEOUT)
+async def _try_request(client: httpx.AsyncClient, url: str, params: Dict[str, str]) -> Optional[str]:
+    try:
+        r = await client.get(url, params=params, timeout=settings.REQUEST_TIMEOUT)
         if r.status_code != 200:
             return None
-        r.encoding = 'utf-8'
+
         txt = r.text
-    return txt
+        if 'ServiceException' in txt or 'ExceptionReport' in txt:
+            p = {k: v for k, v in params.items() if k != 'FILTER'}
+            p.update({'COUNT' if params['VERSION'].startswith('2') else 'MAXFEATURES': str(settings.MAX_FEATURES)})
+            r = await client.get(url, params=p, timeout=settings.REQUEST_TIMEOUT)
+            if r.status_code != 200:
+                return None
+            txt = r.text
+        return txt
+    except Exception:
+        return None
 
 
-def _search_layer(url: str, layer: str, entity_id: str, field: str) -> Optional[Dict[str, Any]]:
-    s = requests.Session()
-    s.verify = False
-    for v in settings.WFS_VERSIONS:
-        p = _build_params(layer, v, field, entity_id, False)
-        txt = _try_request(s, url, p)
-        if not txt:
-            continue
-        for m in _parse_features(txt):
-            res = _build_result(m, entity_id)
-            if res:
-                return res
+async def _search_layer(url: str, layer: str, entity_id: str, field: str) -> Optional[Dict[str, Any]]:
+    async with httpx.AsyncClient(verify=False) as client:
+        for v in settings.WFS_VERSIONS:
+            p = _build_params(layer, v, field, entity_id, False)
+            txt = await _try_request(client, url, p)
+            if not txt:
+                continue
+            for m in _parse_features(txt):
+                res = _build_result(m, entity_id)
+                if res:
+                    return res
     return None
 
 
-def _search_layer_fallback_fields(url: str, layers: List[str], entity_id: str, fields: List[str]) -> Optional[Dict[str, Any]]:
+async def _search_layer_fallback_fields(url: str, layers: List[str], entity_id: str, fields: List[str]) -> Optional[
+    Dict[str, Any]]:
     for layer in layers:
         for f in fields:
-            res = _search_layer(url, layer, entity_id, f)
+            res = await _search_layer(url, layer, entity_id, f)
             if res:
                 return res
     return None
 
 
-def get_parcel_by_id(url: str, parcel_id: str) -> Optional[Dict[str, Any]]:
+async def get_parcel_by_id(url: str, parcel_id: str) -> Optional[Dict[str, Any]]:
     fields = [settings.PARCEL_ID_FIELD] + settings.FALLBACK_PARCEL_ID_FIELDS
-    return _search_layer_fallback_fields(url, settings.PARCEL_LAYER_NAMES, parcel_id, fields)
+    return await _search_layer_fallback_fields(url, settings.PARCEL_LAYER_NAMES, parcel_id, fields)
 
 
-def get_building_by_id(url: str, building_id: str) -> Optional[Dict[str, Any]]:
+async def get_building_by_id(url: str, building_id: str) -> Optional[Dict[str, Any]]:
     fields = [settings.BUILDING_ID_FIELD] + settings.FALLBACK_BUILDING_ID_FIELDS
-    return _search_layer_fallback_fields(url, settings.BUILDING_LAYER_NAMES, building_id, fields)
+    return await _search_layer_fallback_fields(url, settings.BUILDING_LAYER_NAMES, building_id, fields)
